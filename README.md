@@ -10,4 +10,4 @@ Desenvolver um site responsivo que exibirá imagens, descrições e links para c
 
 * **Fabio Rego** - *Trabalho inicial* - [fabiotavarespr](https://github.com/fabiotavarespr)
 
-Veja a lista de pessoas que [contribuiram](https://github.com/fabiotavarespr/Portfolio/contributors) nesse projeto.
+Veja a lista de pessoas que [contribuiram](https://github.com/fabiotavarespr/projeto-portfolio/contributors) nesse projeto.
